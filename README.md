@@ -1,11 +1,11 @@
-# README
+# AIFlashAPI
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the API for the AIFlash project. It is a Rails 5.1.4 application.
 
-Things you may want to cover:
+# Built with:
+* Ruby version 3.0.6
 
-* Ruby version
+Yet to be documented:
 
 * System dependencies
 
@@ -20,5 +20,3 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
